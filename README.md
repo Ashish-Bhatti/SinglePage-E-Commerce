@@ -1,8 +1,9 @@
 E-Commerce Project (Single-Page)
+
 Challenges Faced
 -Local Storage with Objects: 
   One of the challenges in this project was working with Local Storage to save and retrieve cart data, 
-  especially since we were dealing with objects. In previous projects like the Expense Tracker, we had worked with arrays in Local Storage. 
+  especially since we were dealing with objects. In previous projects like the Expense Tracker, we worked with arrays in local storage. 
   Transitioning to objects required extra effort to properly serialize and deserialize the data. Ensuring the cart was correctly stored and 
   loaded from Local Storage was a key learning point.
   
